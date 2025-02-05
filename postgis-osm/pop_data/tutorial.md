@@ -54,6 +54,8 @@ openstreetmapで取得し、データを入力してみよう。
 wget -P /work/data/osm --no-check-certificate https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf
 ```
 
+// 12/19: ここまで実施
+
 ### 2.2 ファイルの権限変更
 ```
 cd /work/data/osm
